@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Anak Menteng Chat</string>
+    <string name="welcome_msg">Selamat Datang!</string>
+    <string name="sign_out">Keluar</string>
+    <string name="contacts_permission_rationale">Access to account information is required to sign in.</string>
+    <string name="invite_menu_label">Tambah Teman</string>
+    <string name="invitation_message">Ayo gabung percakapan bareng gw di Anak Menteng Chat</string>
+    <string name="invitation_cta">Call to action</string>
+    <string name="invitation_title">[UNDANGAN] Anak Menteng Chat</string>
+    <string name="sign_in">Sign In via Gmail</string>
+    <string name="sign_up">Daftar</string>
+    <string name="fresh_config">Segarkan</string>
+    <string name="cause_crash">Cause Crash</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
